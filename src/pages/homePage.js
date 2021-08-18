@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../components/headerMovieList";
-import FilterCard from "../components/filterMoviesCard";
+import FilterCard from "../components/filterMovieCard";
 import Grid from "@material-ui/core/Grid";
 import { makeStyles } from "@material-ui/core/styles";
 import MovieList from "../components/movieList";
